@@ -1,0 +1,15 @@
+id: A1D459EC1
+title: 'MSV 6,03: Ekottara'
+type: translation
+pechas:
+- IA82AACBA
+- I12EB2DE1
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:14:33.089666
+  last_modified_at: 2023-02-10 00:14:33.089689
+alignment_to_base:
+  IA82AACBA/6811: 7D77
+  I12EB2DE1/A50C: 7D77
